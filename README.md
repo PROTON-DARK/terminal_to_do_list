@@ -1,5 +1,5 @@
 # terminal_to_do_list
-```pip install -r requirements.txt```
+```pip install -r requirements.txt```\n
 Type *a* to add task
 Type *e* to edit task
 Type *r* to remove task
